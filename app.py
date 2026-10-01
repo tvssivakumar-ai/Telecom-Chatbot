@@ -53,11 +53,11 @@ st.set_page_config(
 )
 
 
-OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-OPENAI_API_BASE = st.secrets["OPENAI_API_BASE"]
-LANGCHAIN_API_KEY = st.secrets["LANGCHAIN_API_KEY"]
-LANGCHAIN_TRACING_V2 = st.secrets["LANGCHAIN_TRACING_V2"]
-LANGCHAIN_PROJECT = st.secrets["LANGCHAIN_PROJECT"]
+OPENAI_API_KEY = st.secrets["gl-U2FsdGVkX19ph9ALGgQHCfQ9UI8GaQ20FjubdMk7hI38zQPG6ORI6uCw6CNuISaG"]
+OPENAI_API_BASE = st.secrets["https://aibe.mygreatlearning.com/openai/v1"]
+LANGCHAIN_API_KEY = st.secrets["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"]
+LANGCHAIN_TRACING_V2 = st.secrets["true"]
+LANGCHAIN_PROJECT = st.secrets["Telecom Chatbot"]
 
 
 
